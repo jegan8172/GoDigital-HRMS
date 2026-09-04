@@ -1,0 +1,8 @@
+{
+  "name": "go-digital-software",
+  "private": true,
+  "scripts": {
+    "start": "npm --prefix backend run start",
+    "dev": "npm --prefix backend run dev"
+  }
+}
